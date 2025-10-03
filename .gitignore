@@ -1,2 +1,7 @@
-node_modules
-build
+# Ignore environment files
+server/.env
+client/.env
+
+# Node
+node_modules/
+client/build/
